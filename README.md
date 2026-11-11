@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/wersja-1.0.0-blue?style=flat-square" alt="Wersja 1.0.0" />
+  <img src="https://img.shields.io/badge/wersja-1.1-blue?style=flat-square" alt="Wersja 1.1" />
   <img src="https://img.shields.io/badge/Rust-100%25-orange?style=flat-square" alt="Rust 100%" />
   <img src="https://img.shields.io/badge/Windows-dostępny-brightgreen?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
 </p>
