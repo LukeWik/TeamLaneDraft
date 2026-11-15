@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Zbuduj stałą bazę swojego klubu raz, a potem generuj zgłoszenia na dowolne zawody w kilka sekund; natywne narzędzie dla trenerów i klubów w czystym Rust.</b><br>
-  Koniec z mozolnym wklepywaniem tych samych nazwisk, roczników i numerów licencji przy każdym starcie — wskaż komunikat zawodów, zaznacz zawodników ze swojej bazy, a program dobierze ich najlepsze czasy, sprawdzi limity i przygotuje gotowy, bezbłędny plik LENEX.
+  Koniec z mozolnym wklepywaniem tych samych nazwisk, roczników i numerów licencji przy każdym starcie — wczytaj plik zawodów, zaznacz zawodników ze swojej bazy, a program dobierze ich najlepsze czasy, sprawdzi limity i przygotuje gotowy, bezbłędny plik LENEX.
 </p>
 
 <p align="center">
