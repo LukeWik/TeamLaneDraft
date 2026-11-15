@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/status-Beta-red?style=flat-square" alt="Beta" />
   <img src="https://img.shields.io/badge/wersja-1.7-blue?style=flat-square" alt="Wersja 1.7" />
   <img src="https://img.shields.io/badge/Rust-100%25-orange?style=flat-square" alt="Rust 100%" />
   <img src="https://img.shields.io/badge/Windows-dostępny-brightgreen?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
@@ -25,9 +26,9 @@
 
 ## Dodatkowe informacje
 
-* **Całkowicie darmowe:** Program jest w 100% bezpłatny dla trenerów, klubów pływackich i pasjonatów sportu – bez ukrytych subskrypcji, reklam czy płatnych funkcji.
-* **100% prywatności i praca offline:** Aplikacja działa lokalnie na Twoim komputerze. Twoja baza zawodników, czasy i pliki zgłoszeń nie są nigdzie wysyłane ani przechowywane w chmurze – wszystko zostaje wyłącznie na Twoim dysku.
-* **Brak instalacji (Portable):** Program nie wymaga skomplikowanego instalatora ani zewnętrznych bibliotek. Pobierasz, uruchamiasz i od razu pracujesz.
+- **Faza Beta:** Oprogramowanie znajduje się obecnie w fazie aktywnego rozwoju i testów (Beta). Choć dołożyliśmy wszelkich starań, aby zapewnić najwyższą stabilność i zgodność generowanych plików ze standardem LENEX, aplikacja jest stale udoskonalana. Zachęcamy do weryfikacji wyeksportowanych zgłoszeń oraz dzielenia się opiniami, które pomogą w dalszym rozwoju narzędzia.
+- **100% prywatności i praca offline:** Aplikacja działa lokalnie na Twoim komputerze. Twoja baza zawodników, czasy i pliki zgłoszeń nie są nigdzie wysyłane ani przechowywane w chmurze – wszystko zostaje wyłącznie na Twoim dysku.
+- **Brak instalacji (Portable):** Program nie wymaga skomplikowanego instalatora ani zewnętrznych bibliotek. Pobierasz, uruchamiasz i od razu pracujesz.
   <br><br>
 > [!NOTE]
 > **Projekt typu Clean-Room:** Team LaneDraft powstał całkowicie od zera jako niezależne oprogramowanie w czystym Rust. Aplikacja nie modyfikuje, nie dekompiluje ani nie narusza kodu żadnych zewnętrznych programów komercyjnych. Zgodność z formatem LENEX (lxf/lef) została zaimplementowana w oparciu o oficjalną, ogólnodostępną specyfikację techniczną wymiany danych zawodów pływackich.
