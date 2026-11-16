@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-Beta-red?style=flat-square" alt="Beta" />
-  <img src="https://img.shields.io/badge/wersja-1.7-blue?style=flat-square" alt="Wersja 1.7" />
+  <img src="https://img.shields.io/badge/wersja-2.0-blue?style=flat-square" alt="Wersja 2.0" />
   <img src="https://img.shields.io/badge/Rust-100%25-orange?style=flat-square" alt="Rust 100%" />
   <img src="https://img.shields.io/badge/Windows-dostępny-brightgreen?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
 </p>
